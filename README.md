@@ -1,3 +1,4 @@
-1. This is a Project by Thomas Mosley (Kaitlyn)
-2. I am trying to build an app that generates a mandelbrot set as a desktop background in a given color, then saves it to a file
-4. this will take knowledge of complex numbers, and will require me to implement them into java. additionally, I will have to learn how to save images with javaFX and if necessary, learn OpenGL to save it instead. I estimate no more than three weeks will be enough time to complete this project 
+This project is able to generate a mandelbrot image from the recursive formula z=z^2 + c
+This allows for new desktop backgrounds to be created. unique to the coordinates inputed into the program.
+To run it open windows powershell and use java -jar ./MandelbrotDesktopBackgroundApp.jar
+make sure powershell is run in the folder with the jar file.
